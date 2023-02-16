@@ -67,21 +67,3 @@ a:hover {
   background-color: RGB(84, 100, 200);
   text-decoration: underline;
 }
-#Covidpage {
-  width: 100%;
-  height: 500px;
-  position relative;
-  padding: 0px;
-  top: 0px;
-  border-width: 0px;
-  margin: 0px;
-}
-.Pagelinks {
-  width: 50%;
-  height: 200px;
-  position relative;
-  padding: 0px;
-  top: 0px;
-  border-width: 0px;
-  margin: 0px;
-}
