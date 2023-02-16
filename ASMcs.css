@@ -58,36 +58,35 @@ a {
   left: 62%;
 }
 .TASM {
-  left: 74%;
+  left: 71%;
 }
 .TLogin {
-  left: 85%;
+  left: 87%;
 }
 a:hover {
   background-color: RGB(84, 100, 200);
   text-decoration: underline;
 }
-.Videospace {
-  background-color: RGB(200,200,200);
-  float: left;
+#sideimg {
+  height: 400px;
   width: 50%;
-  height: 500px;
-  font-size: 20px;
-  margin: 0px;
 }
-p {
-  background-color: RGB(250,250,255);
+#login {
   float: right;
+  position: relative;
+  height: 200px;
   width: 50%;
-  height: 500px;
-  margin: 0px;
-  text-align: center;
-  font-size: 40px;
-  font-family: sans-serif;
 }
-
-
-
-
-
+#User {
+  position: relative;
+  left: 30%;
+  height: 40px;
+  width: 40%;
+}
+#Password {
+  position: relative;
+  left: 30%;
+  height: 40px;
+  width: 40%;
+}
 
