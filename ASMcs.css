@@ -1,0 +1,93 @@
+body {
+  margin: 0px;
+  background-image: url('Condor-color.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.square { 
+  position: absolute;
+  width: 100%;
+  height: 220px;
+}
+.parentc {
+  position: relative;
+  top: -20px;
+  padding-top: 20px;
+}
+.condoricon {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  float: left;
+  top: 30px;
+  left: 25px;
+}
+.text {
+  position: relative;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  top: 70px;
+  padding-left: 200px;
+
+}
+h4 {  
+  position: absolute;
+  top: 45px;
+  left: 60%;
+  width: 37%;
+  height: 125px;
+  border-style: solid;
+  background-color: RGB(10, 40, 70);
+}
+a {
+  position: absolute;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  color: RGB(250,250,250);
+  text-decoration: none;
+  box-sizing: 100px 100px;
+  border-width: 20px;
+  border-color: RGB(250,250,250);
+  top: 90px;
+  padding: 25px;
+}
+.TGallery {
+  left: 62%;
+}
+.TASM {
+  left: 74%;
+}
+.TLogin {
+  left: 85%;
+}
+a:hover {
+  background-color: RGB(84, 100, 200);
+  text-decoration: underline;
+}
+.Videospace {
+  background-color: RGB(200,200,200);
+  float: left;
+  width: 50%;
+  height: 500px;
+  font-size: 20px;
+  margin: 0px;
+}
+p {
+  background-color: RGB(250,250,255);
+  float: right;
+  width: 50%;
+  height: 500px;
+  margin: 0px;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
