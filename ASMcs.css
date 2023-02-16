@@ -85,8 +85,10 @@ p {
   font-family: sans-serif;
 }
 #ASMlink {
-  position: inherit;
+  position: relative;
   margin: 0px;
   font-size: 20px;
-  
+  top: 0px;
+  padding: 0px;
+  border-width: 0px;
 }
